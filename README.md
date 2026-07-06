@@ -36,9 +36,9 @@ I previously worked in Web2 penetration testing and have transitioned into Web3 
 
 | Platform | Protocol | Date | Severity | Report |
 |----------|----------|------|----------|--------|
-| Immunefi | DeFi Launchpad | July 1, 2026 | Medium | [View Report](#) |
-| Immunefi | Stablecoin | June 25, 2026 | Medium | [View Report](#) |
-| Immunefi | Staking | June 20, 2026 | High | [View Report](#) |
-| Immunefi | Stablecoin | June 19, 2026 | Medium | [View Report](#) |
+| Immunefi | DeFi Launchpad | June 10, 2026 | Medium | [View Report](#) |
 | Immunefi | Stablecoin | June 17, 2026 | Medium | [View Report](#) |
+| Immunefi | Stablecoin | June 19, 2026 | Medium | [View Report](#) |
+| Immunefi | Staking | June 20, 2026 | High | [View Report](#) |
+| Immunefi | Stablecoin | June 25, 2026 | Medium | [View Report](#) |
 | Platform Name | Protocol Name | YYYY-MM-DD | Medium | [View Report](#) |
