@@ -3,7 +3,7 @@
 <p align="left">
 🌍 Based in Egypt | 💡 Security Researcher
 
-EVM Smart Contract Security | Solidity | DeFi Protocol Auditing | Exploit Research | Web2 Pentesting (Former)
+Web3 security researcher | Source code reviewer | Web2 Pentesting (Former)
 
 Welcome to my GitHub profile! I’m a security researcher focused on smart contract auditing and blockchain security. I enjoy breaking down protocols, analyzing vulnerabilities, and understanding how systems fail in real-world conditions.
 
@@ -22,7 +22,7 @@ I previously worked in Web2 penetration testing and have transitioned into Web3 
 
 
 
-<h2 align="left">Findings</h2>
+<h2 align="left">Bug Bounty Findings</h2>
 
 | Platform | Protocol | Date | Severity | Report |
 |----------|----------|------|----------|--------|
@@ -32,3 +32,18 @@ I previously worked in Web2 penetration testing and have transitioned into Web3 
 | Immunefi | Staking | June 20, 2026 | High | [View Report](#) |
 | Immunefi | Stablecoin | June 25, 2026 | Medium | [View Report](#) |
 | Platform Name | Protocol Name | YYYY-MM-DD | Medium | [View Report](#) |
+
+## Contest Results
+
+### Sherlock
+**Profile:** [yahia_sherif](https://audits.sherlock.xyz/watson/yahia_sherif)
+
+| Contest | High | Medium | Low | Total Findings |
+|---------|------|--------|-----|----------------|
+| Metric | 0 | 1 | 0 | 1 |
+
+### HackenProof
+| Contest | High | Medium | Low | Total Findings |
+|---------|------|--------|-----|----------------|
+| Private | 0 | 1 | 0 | 1 |
+
