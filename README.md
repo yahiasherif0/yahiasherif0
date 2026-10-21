@@ -16,9 +16,10 @@ I previously worked in Web2 penetration testing and have transitioned into Web3 
 
 <h2 align="left">Security Research & Practical Experience</h2>
 
-| Platform            | Category                              |
-|---------------------|--------------------------------------|
-| [Bugcrowd](https://bugcrowd.com/h/yahia_sherif)            | Web2 Bug Bounty Profile                     |
+
+| **Platform** | **Category** |
+|---|---|
+| [Bugcrowd) | [Profile](https://bugcrowd.com/h/yahia_sherif) |
 
 
 
