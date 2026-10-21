@@ -27,12 +27,12 @@ I previously worked in Web2 penetration testing and have transitioned into Web3 
 *Note: Undisclosed reports do not include the protocol name or any associated addresses.*
 | Platform | Protocol | Date | Severity | Report |
 |----------|----------|------|----------|--------|
-| Immunefi | DeFi Launchpad | June 9, 2026 | Medium | [View Report]([#](https://yahiasherif0.github.io/posts/Silently-Capped-Reward-Transfer-Functions-Can-Cause-Permanent-Loss-of-Accrued-Rewards-for-Stakers/)) |
+| HackenProof | concentrated liquidity | April 13, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/LPPlugin-deposit-Function-Does-Not-Refund-Unconsumed-Tokens/) |
+| Immunefi | DeFi Launchpad | June 9, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/Unsafe-transfer()-Causes-DoS/) |
 | Immunefi | Stablecoin | June 14, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/Dust-Token-Transfers-Permanently-Prevent-Asset-Removal/) |
 | Immunefi | Staking | June 17, 2026 | High | [View Report](https://yahiasherif0.github.io/posts/Silently-Capped-Reward-Transfer-Functions-Can-Cause-Permanent-Loss-of-Accrued-Rewards-for-Stakers/) |
-| Immunefi | Staking | June 20, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/Silently-Capped-Reward-Transfer-Functions-Can-Cause-Permanent-Loss-of-Accrued-Rewards-for-Stakers/) |
-| HackenProof | concentrated liquidity | April 13, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/LPPlugin-deposit-Function-Does-Not-Refund-Unconsumed-Tokens/) |
-| Sherlock | Dex | July  22, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/LPPlugin-deposit-Function-Does-Not-Refund-Unconsumed-Tokens/) |
+| Immunefi | Staking | June 20, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/Precision-Loss-in-lock()-Leaves-Leftover-Reward-Tokens-Unassigned/) |
+| Sherlock | Dex | July  22, 2026 | Medium | [View Report](https://yahiasherif0.github.io/posts/Attacker-bypass-of-the-PriceVelocityGuard-circuit-breaker/) |
 
 
 ## Contest Results
