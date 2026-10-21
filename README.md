@@ -19,7 +19,7 @@ I previously worked in Web2 penetration testing and have transitioned into Web3 
 
 | **Platform** | **Category** |
 |---|---|
-| [Bugcrowd) | [Profile](https://bugcrowd.com/h/yahia_sherif) |
+| **Bugcrowd** | [Profile](https://bugcrowd.com/h/yahia_sherif) |
 
 
 
